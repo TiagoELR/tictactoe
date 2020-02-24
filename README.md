@@ -1,2 +1,2 @@
 # tictactoe
- portifólio
+ Portifólio para fins de demonstração.
